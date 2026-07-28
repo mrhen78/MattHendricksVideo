@@ -51,6 +51,9 @@ h1 {
      header p {
   font-size: 25px!important;
 } 
+ .burger {
+  margin-top: 19px!important;
+}   
 }
 
 /*Header Across Site*/
